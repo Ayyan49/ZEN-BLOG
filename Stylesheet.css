@@ -1,0 +1,58 @@
+.parent
+{
+   height: 1480px;
+   width: 100%;
+   display: grid;
+   grid-template-columns: 265px 270px 260px 300px;
+   grid-template-rows: 420px 450px;
+}
+.col1
+{
+   grid-area:1/1/3/2 ;
+}
+.col2
+{
+   grid-area:1/2/2/5 ;
+}
+.col3
+{
+   grid-area:2/3/3/5 ;
+}
+.col4
+{
+   
+}
+.PARENT{
+   height: 1380px;
+   width: 100%;
+   display: grid;
+   grid-template-columns: 270px 270px 270px 315px ;
+   grid-template-rows: 420px 580px ;
+}
+.coul1{
+grid-area: 1/1/2/4;
+}
+.coul2{
+   grid-area: 2/2/3/4;
+}
+.coul3{
+   grid-area: 1/4/3/5;
+}
+.coul4{
+
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h5{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
